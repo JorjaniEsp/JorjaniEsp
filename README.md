@@ -40,7 +40,7 @@
 
 </div>
 
-### 🌱 Metas 2026
+### 🌱 Proximamente
 
 <div align="center">
   <img src="https://img.shields.io/badge/Aprender-Docker_%26_Contenedores-blue?style=flat-square&logo=docker" />
