@@ -16,12 +16,16 @@
 
 <br/>
 
+### 👋 Sobre mí
+**¡Hola! Soy Jorjanie.** Tengo 20 años y soy estudiante de **Informática Empresarial en la UCR** (Costa Rica). 
+Actualmente me estoy especializando en el **desarrollo Backend**, construyendo bases sólidas en lógica de programación con Java y gestión de bases de datos. Me apasiona crear soluciones eficientes y estoy en constante aprendizaje para convertirme en un desarrollador integral.
+
 ---
 
-### 🛠️ Tecnologías
+### 🛠️ Tech Stack (Actual)
 
 <img align="left" alt="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="Spring" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -34,10 +38,32 @@
 <br/>
 <br/>
 
+### 🌱 Próximos Pasos 
+<img align="left" alt="Spring" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="Docker" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Azure" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="Kubernetes" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
+
+<br/>
+<br/>
+
 ### 📊 Estadísticas
 
 <div style="display: inline_block">
   
   <img align="left" alt="Jorjanie Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=JorjaniEsp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" />
 
-  <img align="left" alt="Jorjanie Langs" height="180" src="
+  <img align="left" alt="Jorjanie Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorjaniEsp&layout=compact&theme=tokyonight&langs_count=8" />
+
+</div>
+
+<br clear="left"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JorjaniEsp&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+
+<br/>
+
+<div align="center">
+  <p><i>Construyendo futuro desde Limón, Costa Rica 🌴</i></p>
+</div>
