@@ -49,7 +49,7 @@ Actualmente me estoy especializando en el **desarrollo Backend**, construyendo b
 
 ### 📊 Estadísticas
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   
   <img align="left" alt="Jorjanie Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=JorjaniEsp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" />
 
