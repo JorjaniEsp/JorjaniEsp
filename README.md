@@ -50,10 +50,10 @@ Actualmente me estoy especializando en el **desarrollo Backend**, construyendo b
 ### 📊 Estadísticas
 
 <div style="display: inline-block">
-  
-  <img align="left" alt="Jorjanie Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=JorjaniEsp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" />
+  
+  <img align="left" alt="Jorjanie Stats" height="180" style="padding-right: 10px;" src="https://mis-estadisticas-github.vercel.app/api?username=JorjaniEsp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" />
 
-  <img align="left" alt="Jorjanie Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorjaniEsp&layout=compact&theme=tokyonight&langs_count=8" />
+  <img align="left" alt="Jorjanie Langs" height="180" src="https://mis-estadisticas-github.vercel.app/api/top-langs/?username=JorjaniEsp&layout=compact&theme=tokyonight&langs_count=8" />
 
 </div>
 
@@ -61,7 +61,6 @@ Actualmente me estoy especializando en el **desarrollo Backend**, construyendo b
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorjaniEsp&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-
 <br/>
 
 <div align="center">
